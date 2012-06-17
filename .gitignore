@@ -20,3 +20,6 @@ local.properties
 
 # Django files
 *.pyc
+
+# Mac OS X generated files
+.DS_Store
