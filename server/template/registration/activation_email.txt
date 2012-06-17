@@ -1,0 +1,6 @@
+Hello
+  Please activate your account by clicking the following URL within {{ expiration_days }} days:
+  {{ site }}/accounts/activate/{{ activation_key }}/
+
+Thank You
+PieShare Team
